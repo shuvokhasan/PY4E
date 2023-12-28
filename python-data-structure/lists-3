@@ -1,0 +1,7 @@
+lotto = [2, 3, 4, 6, 8, 1]
+
+# print(lotto)
+
+lotto[4] = 9
+
+print(lotto)
